@@ -1,1 +1,18 @@
-/* Сюди додавай стилі частинки About */
+.about-list {
+  background: #1b414b;
+}
+
+.about-item {
+  font-size: 13px;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: #b4b7ba;
+}
+
+.about-order {
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 1;
+  letter-spacing: -0.05em;
+  color: #fbfbfb;
+}
